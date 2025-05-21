@@ -1,1 +1,118 @@
-# BricsEth
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>BricsEth Gold Coin</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+    header {
+      background-color: #1a1a1a;
+      color: white;
+      text-align: center;
+      padding: 40px 20px 20px;
+    }
+    header img {
+      width: 100px;
+      height: auto;
+      margin-bottom: 10px;
+    }
+    header h1 {
+      margin: 10px 0 0;
+      font-size: 2.8em;
+    }
+    header h2 {
+      margin: 5px 0 20px;
+      font-weight: 400;
+      color: #d4af37;
+    }
+    .hero {
+      text-align: center;
+      padding: 50px 20px;
+    }
+    .hero p {
+      font-size: 1.2em;
+      max-width: 700px;
+      margin: 0 auto 30px;
+    }
+    .images {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin-bottom: 50px;
+    }
+    .images img {
+      width: 250px;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .features {
+      background-color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .features h3 {
+      color: #d4af37;
+      font-size: 1.8em;
+      margin-bottom: 20px;
+    }
+    .features ul {
+      list-style: none;
+      padding: 0;
+      max-width: 800px;
+      margin: auto;
+      text-align: left;
+    }
+    .features li {
+      margin: 10px 0;
+      font-size: 1.1em;
+      line-height: 1.5;
+    }
+    footer {
+      background-color: #1a1a1a;
+      color: #ccc;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="BricsEth Logo" />
+    <h1>BricsEth</h1>
+    <h2>Brics Gold Coin</h2>
+  </header>
+
+  <section class="hero">
+    <p>Brics Gold Coin (BRICSETH) is a fully decentralized cryptocurrency not affiliated with or backed by any government or central bank. It is backed by real gold reserves held across trusted vaults around the world, giving it tangible value and long-term security. Built on the Ethereum blockchain, BRICSETH combines the stability of precious metals with the innovation of decentralized finance.</p>
+
+    <div class="images">
+      <img src="https://cdn.pixabay.com/photo/2017/06/20/19/22/bitcoin-2421126_1280.jpg" alt="Gold Coin 1" />
+      <img src="https://cdn.pixabay.com/photo/2016/11/18/18/32/bitcoin-1839028_1280.jpg" alt="Gold Coin 2" />
+      <img src="https://cdn.pixabay.com/photo/2020/11/30/07/56/gold-coin-5791297_1280.jpg" alt="Gold Coin 3" />
+    </div>
+  </section>
+
+  <section class="features">
+    <h3>Why Choose BricsEth?</h3>
+    <ul>
+      <li>✅ Backed by audited gold reserves around the world</li>
+      <li>✅ 100% decentralized and community-driven</li>
+      <li>✅ Built on Ethereum using secure ERC-20 standards</li>
+      <li>✅ Transparent governance and smart contract logic</li>
+      <li>✅ Real asset value meets digital innovation</li>
+    </ul>
+  </section>
+
+  <footer>
+    &copy; 2025 BricsEth Gold Coin. All rights reserved.
+  </footer>
+</body>
+</html>
